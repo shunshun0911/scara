@@ -1,0 +1,12 @@
+C:\Users\shuns\source\repos\trialforscara\trialforscara\bin\Debug\trialforscara.exe.config
+C:\Users\shuns\source\repos\trialforscara\trialforscara\bin\Debug\trialforscara.exe
+C:\Users\shuns\source\repos\trialforscara\trialforscara\bin\Debug\trialforscara.pdb
+C:\Users\shuns\source\repos\trialforscara\trialforscara\bin\Debug\trialforscara.xml
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.vbproj.AssemblyReference.cache
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.Form1.resources
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.Resources.resources
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.vbproj.GenerateResource.cache
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.vbproj.CoreCompileInputs.cache
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.exe
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.xml
+C:\Users\shuns\source\repos\trialforscara\trialforscara\obj\Debug\trialforscara.pdb
